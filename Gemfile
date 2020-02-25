@@ -20,7 +20,7 @@ group :development do
   gem 'kramdown'
   gem 'RedCloth'
   gem 'therubyracer' # required by less
-  gem 'jshintrb', '~>0.3.0'
+  gem 'jshintrb', '~> 0.3.0'
   gem 'safe_yaml'
   gem 'json-schema'
 end
